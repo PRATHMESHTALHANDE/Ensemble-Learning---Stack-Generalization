@@ -1,6 +1,6 @@
 # Ensemble-Learning---Stack-Generalization
 
-# Face Recognition with Stacking Model
+## Face Recognition with Stacking Model
 
 ![Stacking Model](images/Stacking%20Model.png)
 
